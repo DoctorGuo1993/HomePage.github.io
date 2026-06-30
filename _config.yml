@@ -23,7 +23,7 @@ repository               : "DoctorGuo1993/doctorguo1993.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Zhenwei Guo"
   pronouns         : # example: "she/her"  
   bio              : "Associate Research Fellow"

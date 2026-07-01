@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "A Fast Algorithm for Optimal Power Scheduling of Large-Scale Appliances With Temporally Spatially Coupled Constraints"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://academicpages.github.io/files/A Fast Algorithm for Optimal Power Scheduling of Large-Scale Appliances With Temporally Spatially Coupled Constraints.pdf'
+#bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'Guo Z, Chen S, Liu H, et al. A fast algorithm for optimal power scheduling of large-scale appliances with temporally spatially coupled constraints[J]. IEEE Transactions on Smart Grid, 2019, 11(2): 1136-1146.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

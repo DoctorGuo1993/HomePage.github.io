@@ -3,9 +3,9 @@ title: "A Fast Algorithm for Optimal Power Scheduling of Large-Scale Appliances 
 collection: publications
 category: manuscripts
 permalink: /publication/2020-03-journal-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-03
-venue: 'Journal 1'
+#venue: 'Journal 1'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doctorguo1993.github.io/files/A Fast Algorithm for Optimal Power Scheduling of Large-Scale Appliances With Temporally Spatially Coupled Constraints.pdf'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'

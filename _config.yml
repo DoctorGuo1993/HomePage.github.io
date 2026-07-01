@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Zhenwei Guo"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he"  
   bio              : "Associate Research Fellow"
-  location         : "Hangzhou/Chinaaa"
-  employer         : "Beihang University Hangzhou Innovation Institute"
+  location         : "Hangzhou/China"
+  employer         : "BUAA Hangzhou Innovation Institute"
   uri              : # URL
-  email            : "zhenweiguo0724@buaaa.edu.cn" 
+  email            : "zhenweiguo0724@buaa.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -38,11 +38,11 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=gjawxHEAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  #orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  #researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
 

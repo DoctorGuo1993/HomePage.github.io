@@ -37,7 +37,7 @@ Skills
 * Skill 3
 -->
 
-Publications
+Publications 发表论文
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}

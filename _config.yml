@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "he"  
   bio              : "Associate Research Fellow 副研究员"
   location         : "Hangzhou 杭州/China 中国"
-  employer         : "BUAA Hangzhou Innovation Institute\n北航杭州创新研究院"
+  employer         : "北航杭州创新研究院"
   uri              : # URL
   email            : "zhenweiguo0724@buaa.edu.cn" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

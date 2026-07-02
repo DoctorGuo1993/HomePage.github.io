@@ -28,7 +28,9 @@ author:
   pronouns         : # example: "he"  
   bio              : "Associate Research Fellow 副研究员"
   location         : "Hangzhou 杭州/China 中国"
-  employer         : "BUAA Hangzhou Innovation Institute\n北航杭州创新研究院"
+  employer: |
+  BUAA Hangzhou Innovation Institute
+  北航杭州创新研究院
   uri              : # URL
   email            : "zhenweiguo0724@buaa.edu.cn" 
 

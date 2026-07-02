@@ -9,36 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education 教育经历
 ======
 * Ph.D in Control Science and Engineering, Zhejiang University, 2021
+* 浙江大学控制科学与工程专业博士，2021年
 * B.S. in Control Science and Engineering, Zhejiang University, 2016
+* 浙江大学控制科学与工程专业学士，2016年
 
-Work experience
+Work experience 工作经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023.08 - 至今：Associate Research Fellow 副研究员
+  * Beihang University Hangzhou Innovation Institute
+  * 北航杭州创新研究院
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.07 - 2023.07: Postdoctor 博士后
+  * Beihang University / Beihang University Hangzhou Innovation Institute
+  * 北航 / 北航杭州创新研究院
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
@@ -46,18 +41,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
